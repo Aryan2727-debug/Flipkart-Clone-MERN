@@ -11,3 +11,11 @@ This is a Flipkart Clone Project. The main aim of this project is to replicate t
 5) Express.js is used to create and host the server for the Backend.
 6) Mongoose.js is used to establish a connection between Node.js and MongoDBDB Atlas.
 7) React.js is used to create the Frontend using Components and Material-UI library.
+
+## FEATURES IMPLEMENTED IN THE PROJECT
+
+1) Login - Users can create their account after filling their credentials (name, email, password, username and phone number). After creating their account, the name of the user will be displayed on the Navbar.
+2) Search for Products - Users can search for different products from the Search Bar available.
+3) Product Details - After clicking on a product, the details will be displayed. These details include the price, ratings, discount, offers, estimated delivery date, and seller information.
+4) Cart - Users can store their products in the cart. The counter on the cart icon will increment as the products will be stored. On checking out, the total bill after discount and adding delivery charges will be displayed.
+5) Payment - A unique dummy payment gateway has been designed, giving users different options to pay. The options include - COD, Netbanking, ATM cards and UPI services (Paytm, Google Pay etc.)
