@@ -19,3 +19,30 @@ This is a Flipkart Clone Project. The main aim of this project is to replicate t
 3) Product Details - After clicking on a product, the details will be displayed. These details include the price, ratings, discount, offers, estimated delivery date, and seller information.
 4) Cart - Users can store their products in the cart. The counter on the cart icon will increment as the products will be stored. On checking out, the total bill after discount and adding delivery charges will be displayed.
 5) Payment - A unique dummy payment gateway has been designed, giving users different options to pay. The options include - COD, Netbanking, ATM cards and UPI services (Paytm, Google Pay etc.)
+
+## DEPLOYMENT
+This project has been deployed on Cyclic - https://flipkart-clone-mern-stack.cyclic.app/
+
+## SCREENSHOTS
+
+<img width="1000" height="500" alt="image" src="https://github.com/Aryan2727-debug/Flipkart-Clone-MERN/assets/78311368/c35f3023-1c44-4d0f-b52c-dee0da85e2ee">
+
+<br>
+<br>
+
+<img width="1000" height="500" alt="image" src="https://github.com/Aryan2727-debug/Flipkart-Clone-MERN/assets/78311368/2fea3e7c-f675-4431-9999-966b23384564">
+
+<br>
+<br>
+
+<img width="1000" height="500" alt="image" src="https://github.com/Aryan2727-debug/Flipkart-Clone-MERN/assets/78311368/0ba84abb-2c2f-411b-ad81-c3328e8206ad">
+
+<br>
+<br>
+
+<img width="1000" height="500" alt="image" src="https://github.com/Aryan2727-debug/Flipkart-Clone-MERN/assets/78311368/fe0735a7-fbed-4075-8a92-cc21c1a23c5e">
+
+<br>
+<br>
+
+<img width="1000" height="500" alt="image" src="https://github.com/Aryan2727-debug/Flipkart-Clone-MERN/assets/78311368/476bee7b-22a6-4f70-9446-3952d8984a03">
